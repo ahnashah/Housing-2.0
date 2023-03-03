@@ -1,0 +1,731 @@
+Stacwyck: (Sophomore) //info complete
+	# of occupants = 232
+	# of student staff per building= 4
+	# floors = 3
+	singles = 84 sqft
+
+	Williams:
+		3 floors
+		4 suites/floor
+		4 rooms/suite
+	Wiltsie:
+		3 floors
+		3 suites 1st floor
+		4 suites/floor (other)
+		4 rooms/suite
+	Thompson:
+		3 floors
+		4 suites/floor
+		4 rooms/suite
+	Rousseau:
+		3 floors
+		4 suites/floor
+		4 rooms/suite
+	McGiffert:
+		3 floors
+		2 suites 1st floor
+		4 suites/floor (other)
+		4 rooms/suite
+
+===========================================
+===========================================
+
+City Station West: (Junior/Senior) //info complete
+	# of occupants = 181
+	# of student staff per building= 4
+	# floors = 4
+	singles = 170 sqft
+
+	4 floors:
+		12 suites:
+		10 suites w/ 4 rooms
+		2 suites w/ 3 rooms
+
+===========================================
+===========================================
+
+Polytech Apts: (Junior/Senior) //info complete
+	1st floor:
+		7 suites:
+		1 suite w/ 3 rooms
+		1 suite w/ 1 rooms
+		5 suites w/ 4 rooms
+	2nd floor:
+		11 suites:
+		9 suites w/ 4 rooms
+		1 suite w/ 1 room
+		1 suite w/ 2 rooms
+	3rd floor:
+		11 suites:
+		9 suites w/ 4 rooms
+		1 suite w/ 1 room
+		1 suite w/ 3 rooms
+	4th floor:
+		11 suites:
+		9 suites w/ 4 rooms
+		1 suite w/ 1 room
+		1 suite w/ 3 rooms
+
+===========================================
+===========================================
+
+Bryckwyck Apartments: (Junior/Senior) //info complete
+	note: occupants does not match rooms
+	# of occupants: 68
+	# of student per building: 3
+	# of floors: 6
+	single = ?
+
+	A-E bmt:
+		4 rooms
+	A-E 1:
+		15 rooms
+	A-E 2:
+		15 rooms
+	A-E 3:
+		7 rooms
+	F-G bmt:
+		2 rooms
+	F-G 1:
+		6 rooms
+	F-G 2:
+		6 rooms
+	F-G 3:
+		2 rooms
+
+===========================================
+===========================================
+
+Colvin and Albright (RAHP A): (Sophomore) //info complete
+	# of occupants = 236
+	# of student staff = 5
+	singles = 96 sqft
+
+	all 4 person rooms
+	Colvin:
+		11-16:
+		21-30:
+		31-36:
+		41-44:
+		51-56:
+		61-66:
+	Albright:
+		71-76:
+		81-86:
+		91-98:
+
+===========================================
+===========================================
+
+Blitman: (Sophomore) //info complete
+	# of occupants = 284
+	# of student staff = 7
+	singles = 220 sqft
+	doubles = 260 sqft
+
+	1st floor:
+		1 RA
+		24 doubles
+		8 singles
+	2nd floor:
+		1 RA
+		30 doubles
+		8 singles
+	3rd floor:
+		1 RA
+		31 doubles
+		8 singles
+	4th floor:
+		1 RA
+		31 doubles
+		8 singles
+
+===========================================
+===========================================
+
+Beman and Brinsmade (RAHP B) //info complete
+	# of occupants = 159
+	# of student staff per building = 5
+	singles = 96 sqft
+
+	all 4 person rooms
+	Brinsmade:
+		11-16:
+		21-26:
+		31-36:
+		41-46:
+	Beman:
+		11-18:
+		21-28:
+
+===========================================
+===========================================
+
+Warren Hall: (freshman) //info complete
+	# of occupants = 110
+	# of student staff = 5
+	# floors = 3
+	singles = ?
+	double = (231 sqft)
+
+	1st floor:
+		16 suites:
+			15 doubles
+			1 single
+	2nd floor:
+		21 suites:
+			1 RA
+			20 doubles
+	3rd floor:
+		21 suites:
+			1 RA
+			20 doubles
+
+===========================================
+===========================================
+
+Sharp Hall: (freshman) //info complete
+	# of occupants = 94
+	# of student staff per building = 4
+	# floors = 3
+	singles = 101 sqft
+
+	1st floor:
+		4 suites:
+			2 suites w/ 6ppl
+			2 suites w/ 5ppl
+	2nd floor:
+		4 suites w/ 6ppl
+	3rd floor:
+		4 suites w/ 6ppl
+	4th floor:
+		4 suites w/ 6ppl
+
+===========================================
+===========================================
+
+Nugent Hall: (freshman) //occupied by pubsafe
+	1st floor:
+	2nd floor:
+	3rd floor:
+	4th floor:
+
+===========================================
+===========================================
+
+North Hall: (freshman) //info complete
+	# of occupants: 87
+	# of student staff per building: 5
+	# of floors: 3
+	single: 98 sqft
+	double: 140 sqft
+	floor bathroom
+
+	1st floor:
+		3 doubles not used to achieve 88 pop. 1 RA?
+	2nd floor:
+		9 doubles
+		6 singles
+	3rd floor:
+		9 doubles	
+		14 singles
+	4th floor:
+		9 doubles
+		14 singles
+
+===========================================
+===========================================
+
+Nason Hall: (freshman) //info complete
+	# of occupants: 142
+	# of student staff per building: 5
+	# of floors: 3
+	single: 110 sqft
+	double: 175 sqft
+	triple: 260 sqft
+
+	1st floor:
+		1 RA
+		3 triples
+		19 doubles
+		1 single
+	2nd floor:
+		1 RA
+		1 LA
+		2 triples
+		14 doubles
+		1 single
+	3rd floor:
+		1 RA
+		3 triples
+		23 doubles
+		1 single
+
+===========================================
+===========================================
+
+Hall Hall: (freshman) //info complete
+	# of occupants: 140
+	# of student staff per building: 5
+	# of floors: 3
+	single: 110 sqft
+	double: 175 sqft
+	triple: 260 sqft
+	floor bathroom
+
+	1st floor:
+		1 RA
+		3 triples
+		18 doubles
+		1 single
+	2nd floor:
+		1 RA
+		1 LA
+		2 triples
+		24 doubles
+	3rd floor:
+		1 RA
+		3 triples
+		23 doubles
+		1 single
+
+===========================================
+===========================================
+
+E-Complex: (freshman) //info complete
+	# of occupants: 107
+	# of staff per building: 4
+	# of floors: 3
+	single: 140 sqft
+	double: 200 sqft
+
+	1st floor:
+		8 doubles
+		17 singles
+	2nd floor:
+		8 doubles
+		17 singles
+	3rd floor:
+		8 doubles
+		17 singles
+
+===========================================
+===========================================
+
+Davison Hall: (freshman) //info complete
+	Before remodel
+	# of occupants: 102
+	# of student staff per building: 5
+	# of floors: 4
+	single: 150 sqft
+	double: 250 sqft
+
+	1st floor:
+		10 doubles:
+			2 separate
+			8 doubles connected via bathroom
+	2nd floor:
+		13 doubles:
+			3 separate
+			10 doubles connected via bathroom
+	3rd floor:
+		13 doubles:
+			3 separate
+			10 doubles connected via bathroom
+	4th floor:
+		13 doubles:
+			3 separate
+			10 doubles connected via bathroom
+
+===========================================
+===========================================
+
+Crockett Hall: (freshman) //info complete
+	# of occupants: 147
+	# of student staff per building: 5
+	# of floors: 3
+	single: 110 sqft
+	double: 175 sqft
+	triple: 260 sqft
+
+	1st floor: 
+		(1 RD?)
+		1 RA
+		1 triple
+		17 doubles
+		1 single
+	2nd floor:
+		1 RA
+		1 LA
+		26 doubles
+	3rd floor:
+		1 RA
+		1 triple
+		23 doubles
+		1 single
+
+===========================================
+===========================================
+
+Cary Hall: (freshman) //info complete
+	# of occupants: 142
+	# of student staff per building: 5
+	# of floors: 3
+	single: 110 sqft
+	double: 175 sqft
+	triple: 260 sqft
+	floor bathroom
+
+    1st floor:
+		1 RA
+		1 triple
+		18 doubles
+		1 single
+    2nd floor:
+		1 RA
+		1 LA
+		1 triple
+		23 doubles
+    3rd floor:
+		2 RA
+		1 triple
+		23 doubles
+
+===========================================
+===========================================
+
+BARH: (freshman) //info complete
+	# of occupants: 315
+	# of staff: 11
+	# of floors: 4
+	single: 170 sqft
+	double: 240 sqft
+	triple: 240 sqft
+
+	Wing A:
+        Base_1st floor:
+            3 suites:
+            3 X 2 singles connected via bathroom
+		Base_2nd floor:
+			5 suites
+			2 suites w/ 2 singles connected by bathroom
+			3 suites w/ 2 doubles connected by bathroom
+		1st floor:
+			5 suites
+			2 suites w/ 2 singles connected by bathroom
+			3 suites w/ 2 doubles connected by bathroom
+		2nd floor:
+			8 suites:
+				6 suites w/ 2 doubles connected by bathroom
+				2 suites w/ 2 singles via bathroom
+    Wing B:
+		1st floor:
+			6 suites:
+				3 suites w/ 2 doubles connected by bathroom
+				2 suites w/ 2 singles via bathroom
+				1 single
+		2nd floor:
+			5 suites:
+				3 suites w/ 2 doubles connected by bathroom
+				2 suites w/ 2 singles connected by bathroom
+		3rd floor:
+			5 suites:
+				3 suites w/ 2 doubles connected by bathroom
+				2 suites w/ 2 singles connected by bathroom
+    Wing C:
+		1st floor:
+			4 suites:
+				3 suites w/ 2 doubles via bathroom
+				1 suite w/ 2 single via bathroom
+		2nd floor:
+			5 suites:
+				3 suites w/ 2 doubles connected by bathroom
+				2 suites w/ 2 singles connected by bathroom
+		3rd floor:
+			5 suites:
+				3 suites w/ 2 doubles connected by bathroom
+				2 suites w/ 2 singles connected by bathroom
+    Wing D:
+        Base_1st floor:
+            4 suites:
+            	3 suites w/ 2 singles via bathroom
+				1 suite w/ 2 doubles via bathroom
+		Base_2nd floor:
+			5 suites
+			2 suites w/ 2 singles connected by bathroom
+			3 suites w/ 2 doubles connected by bathroom
+		1st floor:
+			6 suites
+			2 suites w/ 2 singles connected by bathroom
+			3 suites w/ 2 doubles connected by bathroom
+			1 singles
+		2nd floor:
+			8 suites:
+				6 suites w/ 2 doubles connected by bathroom
+				2 suites w/ 2 singles via bathroom
+
+===========================================
+===========================================
+
+Bray Hall: (freshman) //info complete
+	# of occupants: 142
+	# of student staff per building: 5
+	# of floors: 3
+	single: 110 sqft
+	double: 175 sqft
+	triple: 260 sqft
+	floor bathroom
+
+	1st floor:
+		1 RD?
+		1 RA
+		1 triple
+		18 doubles
+		1 single
+	2nd floor:
+		1 RA
+		1 LA
+		1 triple
+		23 doubles
+	3rd floor:
+		1 RA
+		1 triple
+		23 doubles
+		1 single
+
+===========================================
+===========================================
+
+Barton Hall: (freshman) //info complete
+	# of occupants: 291
+	# of student staff per building: 9
+	# of floors: 4
+	triple: 215 sqft
+
+	1st floor:
+		5 triples:
+			2 -> 2 triples share bathroom
+			1 ? single/double
+	2nd floor:
+		26 suites:
+			8 suites: 2 triples share bathroom
+			8 triples
+			2 triples share bathroom with 1 single/double?
+	3rd floor:
+		32 suites:
+			8 suites: 2 triples share bathroom
+			14 triples
+			2 triples share bathroom with 1 single/double?
+	4th floor:
+		32 suites:
+			8 suites: 2 triples share bathroom
+			14 triples
+			2 triples share bathroom with 1 single/double?
+
+===========================================
+===========================================
+
+Quad: (sophomore) //info complete
+	# of occupants: 133
+	# of student staff per building: 12
+	# of floors: 3
+	single = 88 sqft
+	doubles = 160 sqft
+	triple = 215 sqft
+
+	White1:
+		1st floor:
+			2 X 2 doubles connected via bathroom
+		2nd floor:
+			2 X 2 doubles connected via bathroom
+		3rd floor:
+			5 doubles w/ floor bathroom
+	White2:
+		1st floor:
+			2 X 2 doubles connected via bathroom
+		2nd floor:
+			2 X 2 doubles connected via bathroom
+		3rd floor:
+			3 doubles
+			3 singles
+	White3:
+		1st floor:
+			2 X 2 doubles connected via bathroom
+		2nd floor:
+			2 X 2 doubles connected via bathroom
+		3rd floor:
+			1 RA double
+			2 doubles
+			3 singles
+	White4:
+		1st floor:
+			2 X 2 doubles connected via bathroom
+		2nd floor:
+			2 X 2 doubles connected via bathroom
+		3rd floor:
+			1 LA
+			2 doubles
+			3 singles
+	Roebling:
+		1st floor:
+			2 triples
+			3 doubles
+		2nd floor:
+			3 triples
+			3 doubles
+		3rd floor:
+			3 triples
+			3 doubles
+	Pardee:
+		1st floor:
+			2 X 2 doubles connected via bathroom
+		2nd floor:
+			2 X 2 doubles connected via bathroom
+		3rd floor:
+			1 RA
+			2 doubles
+			3 singles
+	MacDonald:
+		1st floor:
+			2 X 2 doubles connected via bathroom
+		2nd floor:
+			2 X 2 doubles connected via bathroom
+		3rd floor:
+			3 doubles
+			3 singles
+	Hunt1:
+		1st floor:
+			2 doubles connected via bathroom
+			2 triples connected via bathroom
+		2nd floor:
+			2 X 2 doubles connected via bathroom
+		3rd floor:
+			1 RA
+			2 doubles
+			3 singles
+	Hunt2:
+		1st floor:
+			no rooms
+		2nd floor:
+			1 triple
+			1 doubles? (could be single)
+			3 singles
+		3rd floor:
+			2 doubles
+			4 singles
+	Hunt3:
+		1st floor:
+			2 doubles connected via bathroom
+			2 triples connected via bathroom			
+		2nd floor:
+			2 X 2 doubles connected via bathroom
+		3rd floor:
+			1 RA
+			2 doubles
+			3 singles		
+	Cooper:
+		1st floor:
+			2 X 2 doubles connected via bathroom
+		2nd floor:
+			2 X 2 doubles connected via bathroom
+		3rd floor:
+			1 RA
+			2 doubles
+			3 singles
+	Church1:
+		0th floor:
+			2 triples connected via bathroom
+		1st floor:
+			2 X 2 doubles connected via bathroom
+		2nd floor:
+			2 X 2 doubles connected via bathroom
+		3rd floor:
+			1 RA
+			2 doubles
+			3 singles
+	Church2:
+		1st floor:
+			2 X 2 doubles connected via bathroom
+		2nd floor:
+			2 X 2 doubles connected via bathroom
+		3rd floor:
+			1 RA
+			2 doubles
+			3 singles
+	Church3:
+		1st floor:
+			1 double connected to triple via bathroom
+			1 triple
+		2nd floor:
+			2 triples connected via bathroom
+			1 double connected to triple via bathroom
+		3rd floor:
+			1 LA
+			1 triple
+			1 double
+			3 singles
+	Church4:
+		1st floor:
+			4 doubles
+		2nd floor:
+			4 doubles
+		3rd floor:
+			1 RA
+			2 doubles
+			3 singles
+	Church5:
+		1st floor:
+			4 doubles
+		2nd floor:
+			4 doubles
+		3rd floor:
+			3 doubles
+			3 singles
+	Church6:
+		1st floor:
+			4 doubles
+		2nd floor:
+			4 doubles
+		3rd floor:
+			1 RA
+			3 doubles
+	Caldwell:
+		0th floor:
+			1 triple
+		1st floor:
+			2 X 2 doubles connected via bathroom
+		2nd floor:
+			2 X 2 doubles connected via bathroom
+		3rd floor:
+			3 doubles
+			3 singles
+	Buck:
+		1st floor:
+			2 X 2 doubles connected via bathroom
+		2nd floor:
+			2 X 2 doubles connected via bathroom
+		3rd floor:
+			3 doubles
+			3 singles
+
+===========================================
+===========================================
+
+//total room occupancy vs building occupany may not be the same
+
+//group hierarchy 
+//largest group -> smallest group
+
+//building hierarachy
+//perfect/bigger -> shared bathroom -> room proximity -> same floor -> same building
+
+//time hierarchy?
+//deposit time?
+
+//algorithm must create building objects which
+//hold room objects and bathroom edges between them
+
+//have arraylists of floors and each floor is an arraylist of rooms
+
+//class hierachy
+//building -> floor -> room

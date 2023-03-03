@@ -1,0 +1,47 @@
+{
+    "Warren1-1": {
+        "name": "Warren",
+        "sex": "m",
+        "id": "101",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": []
+    },
+    "Warren1-2": {
+        "name": "Warren",
+        "sex": "m",
+        "id": "102",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": []
+    },
+    "Warren2-1": {
+        "name": "Warren",
+        "sex": "f",
+        "id": "201",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": []
+    },
+    "Nason1-1": {
+        "name": "Nason",
+        "sex": "m",
+        "id": "101",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": []
+    },
+    "RAHPSA1": {
+        "name": "RAHPS A",
+        "sex": "e",
+        "id": "1",
+        "size": 4,
+        "shared_bathroom": true,
+        "year": "sophomore",
+        "occupants": []
+    }
+}

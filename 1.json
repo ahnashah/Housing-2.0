@@ -1,0 +1,10 @@
+{
+    "name": "Jonh Smith",
+    "sex": "m",
+    "major": "mech-e",
+    "dormPref": ["Nason"],
+    "dorm": "",
+    "year": "freshman",
+    "geo": "NY",
+    "groupsize": "2"
+}
